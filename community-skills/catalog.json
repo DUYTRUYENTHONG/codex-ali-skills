@@ -1,0 +1,133 @@
+{
+  "schema_version": "1.0",
+  "maintainer": "DUYTRUYENTHONG",
+  "updated_date": "2026-10-27",
+  "purpose": "Inert discovery index; canonical instructions stay in their owning project",
+  "automatic_install": false,
+  "model_dispatch": false,
+  "active_hook_changes": false,
+  "candidate_data_included": false,
+  "career_kit": {
+    "repository": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit",
+    "revision": "f3aa8609c4b548d52c70f3a4936708ade816d4eb",
+    "license": "MIT",
+    "setup": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/docs/AGENT_SETUP.md",
+    "management_guide": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/docs/SKILL_MANAGEMENT.md",
+    "verification": {
+      "kind": "Local repository checks, not native host or live employer acceptance",
+      "tests": 271,
+      "tests_passed": true,
+      "hygiene_passed": true,
+      "wrapper_check_passed": true
+    }
+  },
+  "skills": [
+    {
+      "name": "application-tailoring",
+      "description": "Draft job-specific CV wording and application emails from confirmed evidence, preserving factual qualifiers and the employer's language and format.",
+      "canonical_path": ".agents/skills/application-tailoring/SKILL.md",
+      "sha256": "76baf213573774114a8da2e06980993db8744e4fdcda3fa72998f5b19880e882",
+      "bytes": 3973,
+      "url": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/.agents/skills/application-tailoring/SKILL.md",
+      "status": "Canonical project instruction; native execution depends on host and supporting references"
+    },
+    {
+      "name": "application-tracking",
+      "description": "Report and resume canonical private job/application state with current hashes, explicit unknown outcomes and duplicate protection.",
+      "canonical_path": ".agents/skills/application-tracking/SKILL.md",
+      "sha256": "2db0f4d76fa12c23912fbc6bf712b6326ae68f1f7b58aad65f5cd6f32b4f0810",
+      "bytes": 3761,
+      "url": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/.agents/skills/application-tracking/SKILL.md",
+      "status": "Canonical project instruction; native execution depends on host and supporting references"
+    },
+    {
+      "name": "browser-application",
+      "description": "Operate only explicitly approved, platform-permitted application UI through an available supported host connection, otherwise prepare a manual handoff.",
+      "canonical_path": ".agents/skills/browser-application/SKILL.md",
+      "sha256": "a76fddba6e90b355d708bc4ef751b581b480b1c8428ed6e511a788d8144f8a15",
+      "bytes": 9977,
+      "url": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/.agents/skills/browser-application/SKILL.md",
+      "status": "Canonical project instruction; native execution depends on host and supporting references"
+    },
+    {
+      "name": "campaign-approval",
+      "description": "Prepare and check exact finite application disclosure/submission manifests after candidate review; no blanket recipient or artifact approval.",
+      "canonical_path": ".agents/skills/campaign-approval/SKILL.md",
+      "sha256": "4a8ee1609f0cfb29aa17ff81c0fe3bd9e1080eb3f3b192cec1146395f5ab5b43",
+      "bytes": 3958,
+      "url": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/.agents/skills/campaign-approval/SKILL.md",
+      "status": "Canonical project instruction; native execution depends on host and supporting references"
+    },
+    {
+      "name": "candidate-evidence",
+      "description": "Import authorized CV evidence and validate one candidate profile with source quotes, conflicts and corrections for a private career workflow.",
+      "canonical_path": ".agents/skills/candidate-evidence/SKILL.md",
+      "sha256": "0bab17d5d6518d79c46fd2afcb23e3f59e9428439382edd7d663e1892ffbd0a0",
+      "bytes": 1892,
+      "url": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/.agents/skills/candidate-evidence/SKILL.md",
+      "status": "Canonical project instruction; native execution depends on host and supporting references"
+    },
+    {
+      "name": "document-review",
+      "description": "Review career documents for source grounding, role relevance, privacy, language and actual rendered layout; review is not candidate disclosure approval.",
+      "canonical_path": ".agents/skills/document-review/SKILL.md",
+      "sha256": "be51333a58b465d7220df95653c79670b9cbed7f0367849a6ecb5ce74a977bb3",
+      "bytes": 2645,
+      "url": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/.agents/skills/document-review/SKILL.md",
+      "status": "Canonical project instruction; native execution depends on host and supporting references"
+    },
+    {
+      "name": "fit-assessment",
+      "description": "Validate a complete requirement-to-confirmed-evidence matrix and classify fit without invented ATS scores, seniority or unsupported qualifications.",
+      "canonical_path": ".agents/skills/fit-assessment/SKILL.md",
+      "sha256": "acedef67d00e05f7690fdc9522a0836b0ff71c8816320a213c0ecfb4d5a55cd5",
+      "bytes": 1861,
+      "url": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/.agents/skills/fit-assessment/SKILL.md",
+      "status": "Canonical project instruction; native execution depends on host and supporting references"
+    },
+    {
+      "name": "job-normalization",
+      "description": "Validate structured JDs, preserve exact employer fields and conservatively normalize Vietnam vacancy identities, city aliases and compensation.",
+      "canonical_path": ".agents/skills/job-normalization/SKILL.md",
+      "sha256": "a990b205fd3db21a57f978141ad554bbb1757b6e3a80f5ff1ac5e1a74710dc7a",
+      "bytes": 2319,
+      "url": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/.agents/skills/job-normalization/SKILL.md",
+      "status": "Canonical project instruction; native execution depends on host and supporting references"
+    },
+    {
+      "name": "onboarding",
+      "description": "Diagnose runtime capabilities and initialize one private job-seeker workspace after an explicit career request; never start intake during product development.",
+      "canonical_path": ".agents/skills/onboarding/SKILL.md",
+      "sha256": "94d038534b203afa5410642c05940b07028c508f996d08a0c5573777e7e42677",
+      "bytes": 1878,
+      "url": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/.agents/skills/onboarding/SKILL.md",
+      "status": "Canonical project instruction; native execution depends on host and supporting references"
+    },
+    {
+      "name": "vietnam-job-discovery",
+      "description": "Discover a finite Vietnam-relevant shortlist through permitted sources, or import supplied postings when browsing or connector permission is unavailable.",
+      "canonical_path": ".agents/skills/vietnam-job-discovery/SKILL.md",
+      "sha256": "2fe69f528d5583c9f6bdb5e0feb5d34a49b22e07fecb5e48da7a730f54c0eb53",
+      "bytes": 3524,
+      "url": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/.agents/skills/vietnam-job-discovery/SKILL.md",
+      "status": "Canonical project instruction; native execution depends on host and supporting references"
+    }
+  ],
+  "external_references": [
+    {
+      "repository": "https://github.com/github/awesome-copilot",
+      "revision": "d106008300bd4c8396e9c3c085c7c8e3ed976d48",
+      "review": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/docs/AWESOME_COPILOT_REVIEW.md",
+      "source_record": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/adapters/awesome-copilot.source.json",
+      "status": "Reviewed reference only; not installed"
+    },
+    {
+      "repository": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "revision": "9ff0c99108b36d3b886defd825d8ac1f47dba374",
+      "review": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/docs/CONTEXT_ENGINEERING_REVIEW.md",
+      "source_record": "https://github.com/DUYTRUYENTHONG/vietnam-career-agent-kit/blob/f3aa8609c4b548d52c70f3a4936708ade816d4eb/adapters/context-engineering.source.json",
+      "status": "Reviewed reference only; not installed"
+    }
+  ],
+  "other_personal_skills": "Not imported or audited; add bounded canonical families through reviewed catalog changes"
+}

@@ -1,3 +1,7 @@
+> **DUYTRUYENTHONG community skills:** see the [curated library index](community-skills/README.md)
+> for canonical career skills and reviewed context/browser references. This repository
+> remains a Codex fork; the index does not install or modify the runtime.
+
 <p align="center"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer.
 <p align="center">
   <img src="https://github.com/openai/codex/blob/main/.github/codex-cli-splash.png" alt="Codex CLI splash" width="80%" />
